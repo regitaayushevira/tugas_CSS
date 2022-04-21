@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(15, 15, 15);
+    height: 50px;
+    text-align: left;
+
+}
+
+li {
+     float: left;
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+p {
+    column-count: 4;
+    column-fill: balance;
+    text-align: justify;
+    font-size: medium;
+    column-rule: 2px black solid;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 50px;
+}
+
+

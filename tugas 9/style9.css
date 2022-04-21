@@ -1,0 +1,25 @@
+body{
+    background-image: url("img/Wayag3.jpg");
+    background-size: cover;
+}
+
+div{
+    text-align: right;
+    position: right;
+    z-index: -1;
+    float: right; 
+    font-weight: bold;
+    margin-right: 1em;
+    margin-left: 1em;
+    margin-bottom: 0em;
+    background-color: white;
+    border: 1px solid white width 400% ;
+    background-color: white width right;
+    width: 50em;
+    height: 49em;
+    position: relative;
+    font-size: small;
+    background-repeat: repeat-y;
+    background-size: 300px ;
+}
+  

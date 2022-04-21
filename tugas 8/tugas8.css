@@ -1,0 +1,35 @@
+body{
+    background-image: url("img/sky.jpg");
+    width: 100px;
+}
+
+div{
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-image: url("img/avocado.jpg") ;
+    background-color: white;
+    width: 40em;
+    height: 20em;
+    overflow: scroll;
+    border: 2px solid black;
+    font-size: larger;
+    background-repeat: repeat-y;
+    background-size: 300px
+}
+
+.satu{
+    text-align: right;
+    color: blue;
+    
+}
+
+.dua{
+    text-align: left;
+    color: green;
+}
+
+.tiga{
+    text-align: center;
+    color: red;
+}

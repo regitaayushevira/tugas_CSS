@@ -1,0 +1,21 @@
+h1{
+    text-transform: capitalize;
+}
+
+.paragraf_pertama{
+text-align: justify;
+}
+
+#paragraf_kedua{ 
+    text-decoration: underline;
+}
+
+*{
+    color: white;
+background-color: green;
+}
+
+p1,
+p2{
+    text-align: center;
+}

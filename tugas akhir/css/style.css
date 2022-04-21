@@ -1,0 +1,27 @@
+body{
+    background:url(img/Untitled\ design\ \(7\).png);
+    background-size: 15em;
+   }
+   div.transparent{
+    background:rgba(2, 2, 2, 0.5);
+    width: 50%;
+    height:250px;
+    padding:10px;
+    margin-top: 35px;
+    margin-left: 25%;
+    color:#fff;
+   }
+   div.transparent2{
+    background:rgba(2, 2, 2, 0.5);
+    width: 50%;
+    height:250px;
+    padding:10px;
+    margin-top: 35px;
+    margin-left: 25%;
+    color:#fff;
+   }
+   div.button{
+     text-decoration: none;
+     
+    
+   }
